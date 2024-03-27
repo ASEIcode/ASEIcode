@@ -2,9 +2,9 @@
 <h3 align="center">Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6eaa5ce04f1de8430123558d2f41ce0ed10dc01fc32d64c967d6397d3da0dfce/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313032353833382f73637265656e73686f74732f363232303838352f646576677579332e676966">
 
-- 🔭 I’m currently working on [The Databricks Certified Data Engineer Associate Exam](https://www.databricks.com/learn/certification/data-engineer-associate)
+- 🔭 I’m currently working towards [The Databricks Certified Data Engineer Associate Exam](https://www.databricks.com/learn/certification/data-engineer-associate)
 
-- 🌱 I’m currently learning more about **Data structures and Algorithms**
+- 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
 
 - 💻 I just finished [a Data Pipeline simulating Pintrest post data](https://github.com/ASEIcode/pinterest-data-pipeline684)
 
