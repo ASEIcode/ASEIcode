@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [The Databricks Certified Data Engineer Associate Exam](https://www.databricks.com/learn/certification/data-engineer-associate)
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+- 🌱 I’m currently learning more about **Data structures and Algorithms**
 
 - 💻 I just finished [a Data Pipeline simulating Pintrest post data](https://github.com/ASEIcode/pinterest-data-pipeline684)
 
