@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working towards [The Databricks Certified Data Engineer Associate Exam](https://www.databricks.com/learn/certification/data-engineer-associate)
 
-- 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
-
 - 💻 I just finished [a Data Pipeline simulating Pintrest post data](https://github.com/ASEIcode/pinterest-data-pipeline684)
+
+- 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
 
 - Ask me about: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka |||| AWS & Azure**
 
