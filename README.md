@@ -8,13 +8,13 @@
 
 - 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
 
-- Ask me about: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka |||| AWS & Azure**
+- 💪 Ask me about: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka |||| AWS & Azure**
 
 - 📫 How to reach me **adamevansjs@gmail.com**
 
 - 📄 Know about my experiences: **[Download my CV](https://drive.google.com/file/d/1_xB6Y-dPnC-_PmRy2eCA6DczIBVIBaW1/view?usp=sharing)**
 
-- ⚡ Fun fact: I'm also a Musician / Producer / Music educator. You can listen to some of my work [here](https://soundcloud.com/adam-evans-292272686) 
+- 🎵 Fun fact: I'm also a Musician / Producer / Music educator. You can listen to some of my work [here](https://soundcloud.com/adam-evans-292272686) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
