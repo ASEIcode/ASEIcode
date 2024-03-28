@@ -8,7 +8,7 @@
 
 - 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
 
-- 📄 Know about my experiences: **[Download my CV](https://drive.google.com/file/d/1xPqgZvDsJQTgTHPETrfIX2aDA2yzXgJc/view?usp=drive_link)**
+- 📄 To learn more about my experiences: **[download my CV](https://drive.google.com/file/d/1xPqgZvDsJQTgTHPETrfIX2aDA2yzXgJc/view?usp=drive_link) or [visit my Linkedin](https://www.linkedin.com/in/adamleeevans)**
 
 - 🎵 Fun fact: I'm also a Musician / Producer / Music educator. You can listen to some of my work [here](https://soundcloud.com/adam-evans-292272686)
 
