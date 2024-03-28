@@ -8,7 +8,7 @@
 
 - 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
 
-- 💪 Ask me about: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka |||| AWS & Azure**
+- 💪 Top Skills: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka || AWS & Azure**
 
 - 📫 How to reach me **adamevansjs@gmail.com**
 
