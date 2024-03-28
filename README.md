@@ -4,15 +4,15 @@
 
 - 💻 I just finished [a Data Pipeline simulating Pintrest post data](https://github.com/ASEIcode/pinterest-data-pipeline684)
 
-- 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
-
 - 💪 Top Skills: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka || AWS & Azure**
 
-- 📫 How to reach me **adamevansjs@gmail.com**
+- 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
 
 - 📄 Know about my experiences: **[Download my CV](https://drive.google.com/file/d/1xPqgZvDsJQTgTHPETrfIX2aDA2yzXgJc/view?usp=drive_link)**
 
-- 🎵 Fun fact: I'm also a Musician / Producer / Music educator. You can listen to some of my work [here](https://soundcloud.com/adam-evans-292272686) 
+- 🎵 Fun fact: I'm also a Musician / Producer / Music educator. You can listen to some of my work [here](https://soundcloud.com/adam-evans-292272686)
+
+- 📫 How to reach me **adamevansjs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
