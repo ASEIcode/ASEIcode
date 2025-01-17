@@ -1,12 +1,12 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6eaa5ce04f1de8430123558d2f41ce0ed10dc01fc32d64c967d6397d3da0dfce/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313032353833382f73637265656e73686f74732f363232303838352f646576677579332e676966">
 
-- 🔭 I’m currently working towards [The Databricks Certified Data Engineer Associate Exam](https://www.databricks.com/learn/certification/data-engineer-associate)
+- 🔭 I’m currently working on the AWS Associate level Developer and Solutions Architect certifications
 
-- 💻 I just finished [a Data Pipeline simulating Pintrest post data](https://github.com/ASEIcode/pinterest-data-pipeline684)
+- 💻 I just finished my [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/15d87779-27b9-467c-8f88-86f038fd60e4#acc.cK8lkV0O) and [AWS Cloud Practictioner](https://www.credly.com/badges/a00cd4d6-3ab2-4c61-a9c0-27d10e0b7373/public_url) certifications. (Click for credentials)
 
 - 💪 Top Skills: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka || AWS & Azure**
 
-- 🌱 In my spare time I'm learning more about **Data structures and Algorithms**
+- 🌱 In my spare time I'm working on an application to streamline the job search process [(JobfitAI)](https://github.com/ASEIcode/JobFitAI)
 
 - 📄 To learn more about my experiences: **[download my CV](https://drive.google.com/file/d/1xPqgZvDsJQTgTHPETrfIX2aDA2yzXgJc/view?usp=drive_link) or [visit my Linkedin](https://www.linkedin.com/in/adamleeevans)**
 
