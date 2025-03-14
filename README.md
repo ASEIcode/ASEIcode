@@ -1,4 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6eaa5ce04f1de8430123558d2f41ce0ed10dc01fc32d64c967d6397d3da0dfce/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313032353833382f73637265656e73686f74732f363232303838352f646576677579332e676966">
+<p align="center">
+  <img alt="Adam Evans - Data and AI Engineer" src="https://i.ibb.co/B5dVfXFd/github-backing.jpg" style="width:100%; max-width:100%; height:auto;">
+</p>
+
 
 - 🔭 I’m currently working on the AWS Associate level Developer and Solutions Architect certifications
 
