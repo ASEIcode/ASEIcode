@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Adam Evans - Data and AI Engineer" src="https://i.ibb.co/B5dVfXFd/github-backing.jpg" style="width:100%; max-width:100%; height:auto;">
+  <img alt="Adam Evans - Data and AI Engineer" src="github-backing.jpg" style="width:100%; max-width:100%; height:auto;">
 </p>
 
 
