@@ -11,7 +11,7 @@
 
 - 🌱 In my spare time I'm working on an application to streamline the job search process [(JobfitAI)](https://github.com/ASEIcode/JobFitAI)
 
-- 📄 To learn more about my experiences: **[download my CV]([https://drive.google.com/file/d/12mSs3xNysQ1l8EpCvThqUX5_X8HDxeFc/view?usp=drive_link](https://drive.google.com/file/d/16GV9nm2sXIuU1myqzI2Z0CkVeolK-Vh0/view?usp=sharing)) or [visit my Linkedin](https://www.linkedin.com/in/adamleeevans)**
+- 📄 To learn more about my experiences: **[download my CV](https://drive.google.com/file/d/16GV9nm2sXIuU1myqzI2Z0CkVeolK-Vh0/view?usp=sharing) or [visit my Linkedin](https://www.linkedin.com/in/adamleeevans)**
 
 - 🎵 Fun fact: I'm also a Musician / Producer / Music educator. You can listen to some of my work [here](https://soundcloud.com/adam-evans-292272686)
 
