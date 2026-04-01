@@ -2,19 +2,12 @@
   <img alt="Adam Evans - Data and AI Engineer" src="github-backing.jpg" style="width:100%; max-width:100%; height:auto;">
 </p>
 
-
-- 🔭 I’m currently working on the AWS Associate level Developer and Solutions Architect certifications
-
-- 💻 I just finished my [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/15d87779-27b9-467c-8f88-86f038fd60e4#acc.cK8lkV0O) and [AWS Cloud Practictioner](https://www.credly.com/badges/a00cd4d6-3ab2-4c61-a9c0-27d10e0b7373/public_url) certifications. (Click for credentials)
-
-- 💪 Top Skills: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka || AWS & Azure**
-
-- 🌱 In my spare time I'm working on an application to streamline the job search process [(JobfitAI)](https://github.com/ASEIcode/JobFitAI)
-
+- 🔭 I'm currently working on the AWS Associate level Developer and Solutions Architect certifications, and have just enrolled in the Snowflake and dbt for Data Engineers learning paths
+- 💻 I hold the [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/15d87779-27b9-467c-8f88-86f038fd60e4#acc.cK8lkV0O) and [AWS Cloud Practitioner](https://www.credly.com/badges/a00cd4d6-3ab2-4c61-a9c0-27d10e0b7373/public_url) certifications. (Click for credentials)
+- 💪 Top Skills: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka || Docker || AWS & Azure**
+- 🌱 Currently rebuilding my AWS Pinterest pipeline as a fully containerised open-source stack — Kafka via Docker Compose, FastAPI replacing API Gateway, CI/CD via GitHub Actions
 - 📄 To learn more about my experiences: **[download my CV](https://drive.google.com/file/d/16GV9nm2sXIuU1myqzI2Z0CkVeolK-Vh0/view?usp=sharing) or [visit my Linkedin](https://www.linkedin.com/in/adamleeevans)**
-
 - 🎵 Fun fact: I'm also a Musician / Producer / Music educator. You can listen to some of my work [here](https://soundcloud.com/adam-evans-292272686)
-
 - 📫 How to reach me **adamevansjs@gmail.com**
 
 <br>
