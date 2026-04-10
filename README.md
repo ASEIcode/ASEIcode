@@ -6,7 +6,7 @@
 - 💻 I hold the [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/15d87779-27b9-467c-8f88-86f038fd60e4#acc.cK8lkV0O) and [AWS Cloud Practitioner](https://www.credly.com/badges/a00cd4d6-3ab2-4c61-a9c0-27d10e0b7373/public_url) certifications. (Click for credentials)
 - 💪 Top Skills: **|| Spark || Databricks || SQL || Python || Airflow || Git || Kafka || Docker || AWS & Azure**
 - 🌱 Currently rebuilding my AWS Pinterest pipeline as a fully containerised open-source stack — Kafka via Docker Compose, FastAPI replacing API Gateway, CI/CD via GitHub Actions
-- 📄 To learn more about my experiences: **[download my CV](https://drive.google.com/file/d/1UkqMgikq6ZVX--E6walCHRw9VyIobNaJ/view?usp=sharing) or [visit my Linkedin](https://www.linkedin.com/in/adamleeevans)**
+- 📄 To learn more about my experiences: **[download my CV](https://drive.google.com/file/d/10LykKjPKnu_zCdnwqE1w51uylx8WOTdD/view?usp=sharing) or [visit my Linkedin](https://www.linkedin.com/in/adamleeevans)**
 - 🎵 Fun fact: I'm also a Musician / Producer / Music educator. You can listen to some of my work [here](https://soundcloud.com/adam-evans-292272686)
 - 📫 How to reach me **adamevansjs@gmail.com**
 
